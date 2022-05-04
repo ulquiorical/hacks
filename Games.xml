@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<games>
+	<game name="Terraria">
+		<dllname>terraria.dll</dllname>
+		<dllurl>https://downgit.github.io/#/home?url=https://github.com/ulquiorical/hacks/blob/main/Games/Terraria/terraria.dll</dllurl>
+		<realname>tModLoader/Terraria</realname>
+	</game>
+</games>
